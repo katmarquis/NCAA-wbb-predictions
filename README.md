@@ -1,3 +1,2 @@
 # NCAA-wbb-predictions
-Project on predicting the outcomes of Division 1 NCAA women's basketball games for the class BEM/Ec 120 at Caltech. The models were also used on
-men's data for comparison with the results from the women's models.
+Project on predicting the outcomes of Division 1 NCAA women's basketball games for the class BEM/Ec 120 at Caltech. Feature engineered advanced statistics, visualized data, implemented feature selection, and coded a machine learning model in Python using Kaggle women's data. Achieved a 76% accuracy out of sample using a Decision Tree. The models were then used on men's data for comparison with the results from the women's models.
